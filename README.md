@@ -1,1 +1,3 @@
-# LojaXPTO
+    A loja XPTO, ao completar um ano  solicitou a uma empresa de software um  sistema de gerenciamento que controlasse seu estoque e mercadorias  que nele ficasse armazenado.  Então ao  se levantar os requisitos  necessários para o sistema, gerou-se uma massa de dados  que será armazenado em um banco de dados relacional do SGBD MySql. 
+
+    O banco terá o nome de  Estoque e terá no total de 5 (cinco) tabelas que se relacionam entre si cujos o nomes das tabelas serão: Produto, movimentação, controle, empresa e fornecedor. No produto, a chave primaria será codProduto, assim com  empresa  e fornecedor serão o seu  cnpj como chave primaria.# LojaXPTO
